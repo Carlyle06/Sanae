@@ -130,4 +130,8 @@ public class App {
             System.out.println("商品名称"+product_catalog_name);
         }
     }
+
+    public void fff(){
+        System.out.println("test");
+    }
 }
